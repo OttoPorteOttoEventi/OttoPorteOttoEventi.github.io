@@ -43,7 +43,7 @@ a{
 -------------------------------------------------------------- */
 
 .bloc{
-	width:1170px;
+	width:100%;
 	clear:both;
 	background: 50% 50% no-repeat;
 	padding:0 50px;
@@ -207,7 +207,7 @@ a{
 		text-align:center;
 	}
 	.nav-center .navbar-header{
-		width:100%;
+		width:1200;
 	}
 	.nav-center .navbar-header, .nav-center .navbar-brand, .nav-center .nav > li{
 		float: none;
