@@ -207,7 +207,7 @@ a{
 		text-align:center;
 	}
 	.nav-center .navbar-header{
-		width:1200;
+		width:100%;
 	}
 	.nav-center .navbar-header, .nav-center .navbar-brand, .nav-center .nav > li{
 		float: none;
@@ -215,7 +215,7 @@ a{
 	}
 	.nav-center .site-navigation{
 		position:relative;
-		width:100%;
+		width:1200px;
 		margin-top:20px;
 	}
 }
