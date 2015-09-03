@@ -36,7 +36,7 @@ a{
 /* Site container width */
 
 .container{
-	width:100%;
+	max-width:1170px;
 }
 
 /* = Blocs
@@ -275,10 +275,6 @@ nav .caret{
 }
 .hero .btn-dwn:hover{
 	color: rgba(255,255,255,1);
-}
-.hero .hero-nav{
-	padding-left:inherit;
-	padding-right:inherit;
 }
 
 /* = Bric adjustment margins
